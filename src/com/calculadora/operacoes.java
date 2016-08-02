@@ -6,7 +6,7 @@ public class operacoes {
 
     //Int
 
-    static int adicionarInt(int primeiroNumero, int segundoNumero){
+    public static int adicionarInt(int primeiroNumero, int segundoNumero){
 
         int resultadoAdicionarInt;
 
@@ -16,7 +16,7 @@ public class operacoes {
 
     //Long
 
-    static long adicionarLong(long primeiroNumero, long segundoNumero){
+    public static long adicionarLong(long primeiroNumero, long segundoNumero){
 
         long resultadoAdicionarLong;
 
@@ -26,7 +26,7 @@ public class operacoes {
 
     //Float
 
-    static float adicionarFloat(float primeiroNumero, float segundoNumero){
+    public static float adicionarFloat(float primeiroNumero, float segundoNumero){
 
         float resultadoAdicionarFloat;
 
@@ -36,7 +36,7 @@ public class operacoes {
 
     //Double
 
-    static double adicionarDouble(double primeiroNumero, double segundoNumero){
+    public static double adicionarDouble(double primeiroNumero, double segundoNumero){
 
         double resultadoAdicionarDouble;
 
@@ -48,7 +48,7 @@ public class operacoes {
 
     //Int
 
-    static int subtrairInt(int primeiroNumero, int segundoNumero){
+    public static int subtrairInt(int primeiroNumero, int segundoNumero){
 
         int resultadoSubtrairInt;
 
@@ -58,7 +58,7 @@ public class operacoes {
 
     //Long
 
-    static long subtrairLong(long primeiroNumero, long segundoNumero){
+    public static long subtrairLong(long primeiroNumero, long segundoNumero){
 
         long resultadoSubtrairLong;
 
@@ -68,7 +68,7 @@ public class operacoes {
 
     //Float
 
-    static float subtrairFloat(float primeiroNumero, float segundoNumero) {
+    public static float subtrairFloat(float primeiroNumero, float segundoNumero) {
 
         float resultadoSubtrairFloat;
 
@@ -78,7 +78,7 @@ public class operacoes {
 
     //Double
 
-    static double subtrairDouble(double primeiroNumero, double segundoNumero) {
+    public static double subtrairDouble(double primeiroNumero, double segundoNumero) {
 
         double resultadoSubtrairDouble;
 
@@ -90,7 +90,7 @@ public class operacoes {
 
     //Int
 
-    static int multiplicarInt(int primeiroNumero, int segundoNumero) {
+    public static int multiplicarInt(int primeiroNumero, int segundoNumero) {
 
         int resultadoMultiplicarInt;
 
@@ -100,7 +100,7 @@ public class operacoes {
 
     //Long
 
-    static long multiplicarLong(long primeiroNumero, long segundoNumero) {
+    public static long multiplicarLong(long primeiroNumero, long segundoNumero) {
 
         long resultadoMultiplicarLong;
 
@@ -110,7 +110,7 @@ public class operacoes {
 
     //Float
 
-    static float multiplicarFloat(float primeiroNumero, float segundoNumero) {
+    public static float multiplicarFloat(float primeiroNumero, float segundoNumero) {
 
         float resultadoMultiplicarFloat;
 
@@ -120,7 +120,7 @@ public class operacoes {
 
     //Double
 
-    static double multiplicatrDouble(double primeiroNumero, double segundoNumero) {
+    public static double multiplicatrDouble(double primeiroNumero, double segundoNumero) {
 
         double resultadoMultiplicarDouble;
 
@@ -132,7 +132,7 @@ public class operacoes {
 
     //Int
 
-    static int dividirInt(int primeiroNumero, int segundoNumero) {
+    public static int dividirInt(int primeiroNumero, int segundoNumero) {
 
         int resultadoDividirInt;
 
@@ -142,7 +142,7 @@ public class operacoes {
 
     //Long
 
-    static long dividirInt(long primeiroNumero, long segundoNumero) {
+    public static long dividirInt(long primeiroNumero, long segundoNumero) {
 
         long resultadoDividirLong;
 
@@ -152,7 +152,7 @@ public class operacoes {
 
     //Float
 
-    static float dividirFloat(float primeiroNumero, float segundoNumero) {
+    public static float dividirFloat(float primeiroNumero, float segundoNumero) {
 
         float resultadoDividirFloat;
 
@@ -162,7 +162,7 @@ public class operacoes {
 
     //Double
 
-    static double dividirDouble(double primeiroNumero, double segundoNumero) {
+    public static double dividirDouble(double primeiroNumero, double segundoNumero) {
 
         double resultadoDividirDouble;
 
